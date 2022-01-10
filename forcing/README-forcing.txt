@@ -1,0 +1,1 @@
+This directory contains the notebooks used to create forcing files for the Mn model. Where data are used from other sources, we refer to the location to retrieve their original data and don't provide the specific files.

@@ -1,0 +1,25 @@
+# conda env description for pkgs & envs discussion
+
+name: Mn-paper
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.6
+  - matplotlib=3.2
+  - basemap
+  - proj4
+  - netCDF4
+  - jupyterlab
+  - xarray
+  - dask
+  - gsw
+  - cartopy
+  - cmocean
+  - seaborn
+  - pandas
+  - basemap-data-hires
+  - joblib
+  - parcels
+  - ffmpeg
